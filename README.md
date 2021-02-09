@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Charlie, I have recently completed the 16 week full stack coding bootcamp at the 'School of Code'. 
+
+Before the School of Code I worked a lot in hospitality with a lot of experience as a barista. I am now transitioning from working with one kind of Java to another.
+
+- 🔭 I’m currently working on Creating a chess App that will be useable to play chess against your friends online. Check it out in the repo below! I started this project to test myself and see if I can work out the complicated logic required within the game.
+
+- 🌱 I’m currently working my way through the Havrard CS50 course to pick up some computer science knowledge and learn a bit more about how to make my code more effiecient.
+
 <!--
 **Glitch-cypher/Glitch-cypher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
