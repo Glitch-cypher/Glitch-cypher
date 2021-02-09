@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Charlie, I have recently completed the 16 week full stack coding bootcamp at the 'School of Code'. 
-
-Before the School of Code I worked a lot in hospitality with a lot of experience as a barista. I am now transitioning from working with one kind of Java to another.
+I'm Charlie, I have recently completed the 16 week full stack coding bootcamp at the 'School of Code'. We Learnt mainly in Javascript, creating apps in diferent frameworks and worked in agile teams to create and host full stack applications on AWS, Netlify and Heroku. 
 
 - 🔭 I’m currently working on Creating a chess App that will be useable to play chess against your friends online. Check it out in the repo below! I started this project to test myself and see if I can work out the complicated logic required within the game.
 
